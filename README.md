@@ -16,11 +16,11 @@
 
 ### 💥 How to reach me
 
-[![Email](./img/globe-light.svg)](tchakomanuel@gmail.com#gh-light-mode-only)
-[![Email](./img/globe-dark.svg)](tchakomanuel@gmail.com#gh-dark-mode-only)
+[![Email](./img/globe-light.svg)](mailto:tchakomanuel@gmail.com#gh-light-mode-only)
+[![Email](./img/globe-dark.svg)](mailto:tchakomanuel@gmail.com#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/bryan-tchakote#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/bryan-tchakote#gh-dark-mode-only)
+[![LinkedIn](./img/linkedin-light.svg)](https://linkedin.com/in/bryan-tchakote#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://linkedin.com/in/bryan-tchakote#gh-dark-mode-only)
 &nbsp;&nbsp;&nbsp;
 [![GitHub](./img/github-light.svg)](https://github.com/bryantchakote#gh-light-mode-only)
 [![GitHub](./img/github-dark.svg)](https://github.com/bryantchakote#gh-dark-mode-only)
