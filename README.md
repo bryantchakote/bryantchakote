@@ -2,14 +2,14 @@
 
 <h1 align="center">Hello, I'm Bryan Tchakote 😁</h1>
 
-<h3 align="center">A Student with a deep passion for Data Science & AI</h3>
+<h3 align="center">A random guy with a deep passion for Data Science & AI</h3>
 
 <hr>
 
 ### 🏋🏾‍♂️ So...
 
 - 🫰🏾I’m currently learning **a bit of everything 🤷🏾‍♂️**
-- 🐒Ask me about **Machine & Deep Learning models, Computer Vision, and whatever else...**
+- 🐒Ask me about **Machine & Deep Learning models, and the meaning of the world...**
 - 🌜Fun Fact: (Just because I saw it somewhere)
 
 <hr>
