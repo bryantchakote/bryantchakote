@@ -8,55 +8,55 @@
 
 ### 📂 Projects
 
-> #### 01. Churn prediction in a digital services company
+#### 01. Churn prediction in a digital services company
 
 - [github.com/bryantchakote/churn-services-numeriques](https://github.com/bryantchakote/churn-services-numeriques)
 - `Statistical analysis` `Machine Learning` `Churn score` `Azure deployment`
 
-> #### 02. Bank churn prediction
+#### 02. Bank churn prediction
 
 - [github.com/bryantchakote/mlpro-classification-bank-churn-2025](https://github.com/bryantchakote/mlpro-classification-bank-churn-2025)
 - `EDA` `Machine Learning` `Scikit-Learn` `Feature engineering` `MLflow` `Kaggle`
 
-> #### 03. Exploratory data analysis on dairy production data
+#### 03. Exploratory data analysis on dairy production data
 
 - [github.com/bryantchakote/aic-2024](https://github.com/bryantchakote/aic-2024)
 - `Data Analysis & Visualization` `Pandas` `Matplotlib` `Dairy industry`
 
-> #### 04. Classification of empty vs. full trash bins using Deep Learning
+#### 04. Classification of empty vs. full trash bins using Deep Learning
 
 - [github.com/bryantchakote/test-technique-suez](https://github.com/bryantchakote/test-technique-suez)
 - `Data labeling` `Classification` `Computer Vision` `YOLO` `Bash` `Environment`
 
-> #### 05. Defect detection on electronic components using YOLO and SAM
+#### 05. Defect detection on electronic components using YOLO and SAM
 
 - [github.com/bryantchakote/SAM-Quality_Control](https://github.com/bryantchakote/SAM-Quality_Control)
 - `Computer Vision` `YOLO Detection` `SAM Segmentation` `Roboflow` `Quality Control`
 
-> #### 06. Creation of an interactive SQL Agent with LangChain and Streamlit
+#### 06. Creation of an interactive SQL Agent with LangChain and Streamlit
 
 - [github.com/bryantchakote/agent-sql](https://github.com/bryantchakote/agent-sql)
 - `LangChain` `Streamlit` `SQL` `FastAPI` `Agent` `LLM` `OpenAI` `Databases`
 
-> #### 07. Document querying application using RAG
+#### 07. Document querying application using RAG
 
 - [github.com/bryantchakote/rag_app_avct](https://www.github.com/bryantchakote/rag_app_avct)
 - `LlamaIndex` `VectorStore` `Chunks` `Embeddings` `Streamlit` `RAG` `Generative AI`
 
-> #### 08. Customized LLM finetuning with Gradio
+#### 08. Customized LLM finetuning with Gradio
 
 - [github.com/bryantchakote/llm-finetuning-with-gradio](https://github.com/bryantchakote/llm-finetuning-with-gradio)
 - `HuggingFace` `Unsloth` `PEFT` `LoRA` `DPO finetuning` `Transfer Learning` `Gradio`
 
-> #### 09. Implementation of a Neural Network from scratch using Numpy
+#### 09. Implementation of a Neural Network from scratch using Numpy
 
 - [github.com/bryantchakote/neural-network-numpy](https://www.github.com/bryantchakote/neural-network-numpy)
 - `Deep Learning` `Neural Networks` `Linear Algebra` `Backpropagation` `Numpy`
 
-> #### 10. Various data analyses using R
+#### 10. Various data analyses using R
 
-  - [github.com/bryantchakote/R-programming-L2](https://github.com/bryantchakote/R-programming-L2)
-  - `Data Analysis` `Visualization` `R Programming` `R Markdown` `ggplot2` `dplyr`
+- [github.com/bryantchakote/R-programming-L2](https://github.com/bryantchakote/R-programming-L2)
+- `Data Analysis` `Visualization` `R Programming` `R Markdown` `ggplot2` `dplyr`
 
 <hr>
 
