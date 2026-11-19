@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello, I'm Bryan Tchakote 😁</h1>
 
-<h3 align="center">A random guy with a deep passion for Data Science & AI</h3>
+<h3 align="center">Yet Another Random Guy</h3>
 
 <hr>
 
